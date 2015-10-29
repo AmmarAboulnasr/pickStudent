@@ -1,0 +1,16 @@
+#randomButton, #groupStudents {
+	width: 281px;
+}
+
+* {
+	font-family: sans-serif;
+}
+
+h1 {
+	width: 281px;
+	text-align: center;
+}
+
+#groupOfNumberButton {
+	width: 75px;
+}
